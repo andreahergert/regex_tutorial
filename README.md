@@ -1,51 +1,35 @@
 # Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+## Licensing:
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
-https://gist.github.com/andreahergert/979a9e19226bf9467701c6ccdad20611
+## Table of Contents 
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-## Summary
+## Description:
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
-## Table of Contents
+## Installation:
 
-- [Anchors](#anchors)
-- [Quantifiers](#quantifiers)
-- [OR Operator](#or-operator)
-- [Character Classes](#character-classes)
-- [Flags](#flags)
-- [Grouping and Capturing](#grouping-and-capturing)
-- [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
-## Regex Components
+## Usage:
+https://gist.github.com/andreahergert/979a9e19226bf9467701c6ccdad20611 
 
-### Anchors
+## License:
+MIT
 
-### Quantifiers
+## Contributing:
 
-### OR Operator
 
-### Character Classes
+## Tests:
 
-### Flags
 
-### Grouping and Capturing
-
-### Bracket Expressions
-
-### Greedy and Lazy Match
-
-### Boundaries
-
-### Back-references
-
-### Look-ahead and Look-behind
-
-## Author
-
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+## Questions:
+- Github: [andreahergert](https://github.com/andreahergert)
+- Email: ahergert24@hotmail.com 
